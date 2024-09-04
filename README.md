@@ -1,0 +1,1 @@
+This problem is from the second exam/колоквиум from the course Introduction to Data Science.
